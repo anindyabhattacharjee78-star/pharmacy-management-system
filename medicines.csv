@@ -1,0 +1,6 @@
+medicine_id,name,price,quantity,expiry_date,prescription
+1,Paracetamol 500mg,25.0,120,2027-12-02,False
+2,Amoxicillin 250mg,85.5,8,2027-05-16,True
+3,Cough Syrup 100ml,60.0,40,2026-11-12,False
+4,Vitamin C Tablets,150.0,55,2027-08-24,False
+5,Old Antacid,12.0,30,2026-10-18,False
